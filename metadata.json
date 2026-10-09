@@ -1,0 +1,10 @@
+{
+  "name": "Doorbly Customer",
+  "description": "Production-ready Doorbly Customer Android application for doorstep, freelance, and corporate services connected to Supabase.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
